@@ -1,4 +1,4 @@
 # Shanks-demo
 This is my first Github repository.
 <br>
-Author - Shashank.M
+Author - Shashank.M (AKA Shanks)
